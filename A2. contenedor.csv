@@ -1,0 +1,101 @@
+con_id_contenedor,con_volumen,con_id_barrio,con_id_color,con_entre_calles,con_fecha_colocacion
+1,173,24,1,44 Leroy Place,2021-05-10
+2,327,49,2,47 Northridge Parkway,2021-11-22
+3,424,19,1,60 Canary Drive,2018-11-17
+4,687,45,2,22 Gateway Drive,2021-08-07
+5,543,26,2,730 Springview Pass,2017-12-30
+6,546,5,2,04707 Dayton Parkway,2021-07-30
+7,296,45,2,5303 Esch Point,2019-11-27
+8,585,12,1,7 Scofield Alley,2017-12-07
+9,218,18,2,48 Schiller Center,2020-07-27
+10,209,25,1,3769 Meadow Valley Street,2021-04-03
+11,681,5,2,4205 Donald Terrace,2020-03-02
+12,609,17,2,7 Coleman Junction,2018-12-25
+13,451,6,1,02002 Oakridge Center,2019-04-07
+14,679,13,2,07 Hallows Road,2019-11-01
+15,604,6,2,37402 Burrows Road,2018-08-18
+16,235,46,1,2 Hoepker Way,2021-08-23
+17,680,36,1,3 Sachtjen Place,2018-11-30
+18,401,24,1,107 Warner Lane,2021-06-06
+19,308,35,2,806 Mcbride Avenue,2018-09-19
+20,202,25,1,928 Londonderry Junction,2018-10-31
+21,690,2,2,222 Dennis Place,2020-07-11
+22,265,35,2,379 Welch Center,2021-11-09
+23,116,3,1,21 Mifflin Junction,2019-08-06
+24,367,36,2,2353 Hovde Street,2022-03-28
+25,138,26,1,90 Mccormick Trail,2020-07-27
+26,581,44,2,14 Carpenter Pass,2021-12-23
+27,619,18,1,1 Logan Place,2020-03-09
+28,346,21,2,24424 Buhler Hill,2021-02-20
+29,502,44,1,712 Prairie Rose Street,2018-02-08
+30,172,24,1,9204 Darwin Drive,2022-06-25
+31,255,12,1,24 Russell Way,2021-12-09
+32,489,24,2,851 Thackeray Alley,2018-04-23
+33,586,22,2,2 Kim Point,2022-04-22
+34,223,36,2,0 Acker Road,2022-07-10
+35,481,43,2,60178 Mallory Pass,2018-12-11
+36,116,4,2,7988 Ilene Alley,2019-05-01
+37,160,10,2,1109 Kensington Court,2021-10-15
+38,153,0,1,86 Orin Way,2017-11-09
+39,114,26,2,70 Melrose Place,2019-07-22
+40,223,42,2,7284 Mayer Circle,2017-11-04
+41,474,14,1,62 Spenser Terrace,2021-02-10
+42,172,4,2,70 Alpine Crossing,2017-11-04
+43,395,22,2,301 Grim Trail,2018-09-22
+44,288,0,1,9 Trailsway Drive,2021-09-29
+45,145,40,2,94742 Shasta Hill,2021-12-11
+46,608,36,2,729 Havey Circle,2019-05-23
+47,443,4,1,24717 Sauthoff Road,2020-06-30
+48,404,44,1,60 Village Green Circle,2018-07-26
+49,316,29,1,42 Saint Paul Court,2021-11-28
+50,666,29,1,13 Morrow Alley,2018-10-31
+51,672,18,1,05 Park Meadow Junction,2018-11-03
+52,460,36,2,5658 Mallory Point,2020-10-08
+53,206,10,2,0596 Maywood Lane,2019-05-30
+54,303,15,1,37 Aberg Trail,2021-05-26
+55,573,26,1,18 Havey Crossing,2021-10-24
+56,169,18,2,749 Vahlen Court,2020-09-06
+57,396,23,2,092 Fordem Avenue,2021-01-13
+58,624,38,2,5 Haas Street,2018-05-12
+59,121,33,1,26777 Service Pass,2019-12-26
+60,497,11,2,4201 Transport Drive,2021-10-06
+61,538,22,1,7725 Prentice Park,2018-04-29
+62,225,13,2,6 Rutledge Park,2019-04-13
+63,498,10,2,22 Grim Junction,2019-07-25
+64,276,20,2,3 Northland Street,2021-03-08
+65,672,43,1,8 Lunder Way,2018-12-08
+66,549,50,2,718 Del Sol Alley,2018-12-06
+67,336,4,2,96 Sunnyside Junction,2018-09-21
+68,598,32,1,936 Longview Center,2022-05-23
+69,300,35,1,64 Dahle Alley,2021-01-26
+70,600,19,1,7 Browning Center,2021-02-16
+71,121,8,1,638 6th Point,2018-08-25
+72,683,23,2,142 Kedzie Crossing,2020-06-11
+73,576,26,1,94 Oak Valley Avenue,2018-09-24
+74,322,8,1,527 Golf View Place,2022-08-03
+75,674,10,1,3527 Green Ridge Hill,2019-07-01
+76,207,48,2,6914 Express Road,2021-11-21
+77,215,40,1,86 Manitowish Park,2019-04-11
+78,406,48,1,14 Stang Road,2021-06-05
+79,351,32,2,6849 Stang Circle,2019-09-02
+80,296,32,2,7 Lotheville Lane,2021-03-15
+81,602,3,2,8123 Lukken Place,2019-03-28
+82,401,24,2,2 Judy Trail,2022-04-20
+83,201,50,1,4 Texas Drive,2021-10-02
+84,700,38,2,8634 West Alley,2020-01-18
+85,237,24,1,359 Onsgard Drive,2019-09-14
+86,183,39,1,57 Onsgard Trail,2019-11-06
+87,294,50,1,65 Nobel Road,2021-08-27
+88,366,49,1,7 Banding Pass,2018-04-05
+89,602,22,1,75 Westport Trail,2020-07-06
+90,323,27,1,97 Lillian Circle,2021-06-19
+91,549,10,1,394 Glacier Hill Place,2018-07-12
+92,135,36,1,8 Oneill Terrace,2020-12-03
+93,593,35,2,1 Melrose Hill,2021-08-14
+94,629,38,1,78 Manufacturers Circle,2021-10-25
+95,185,37,2,4254 Gerald Hill,2020-02-10
+96,379,1,2,7 Bowman Way,2019-04-14
+97,551,6,1,36660 Steensland Hill,2018-12-21
+98,181,0,1,27478 Mallory Drive,2019-01-20
+99,269,36,2,69914 Trailsway Trail,2018-06-02
+100,621,9,1,7900 Lillian Park,2020-01-20

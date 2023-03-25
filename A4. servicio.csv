@@ -1,0 +1,301 @@
+ser_id_servicio,ser_id_transporte,ser_id_contenedor,ser_id_recolector,ser_destino,ser_fecha_servicio
+1,1,15,67,2563 Northfield Plaza,2020-11-01
+2,6,6,19,549 Larry Drive,2021-01-15
+3,9,36,14,53 Maple Circle,2018-05-21
+4,16,28,24,5 Holy Cross Point,2022-06-03
+5,2,12,78,9 Pawling Plaza,2018-08-23
+6,6,80,34,54610 Grover Court,2019-06-25
+7,18,34,33,1 Eastwood Park,2019-06-07
+8,9,54,79,7 Truax Way,2018-06-09
+9,6,27,40,55064 Bunting Circle,2021-09-10
+10,3,86,72,625 Park Meadow Way,2019-10-18
+11,19,44,12,94 Merry Parkway,2021-10-25
+12,9,79,79,7238 Arapahoe Way,2020-07-19
+13,2,61,77,1751 Dunning Park,2020-08-03
+14,16,20,34,1170 Pine View Court,2018-01-28
+15,17,61,65,1831 Arizona Junction,2020-11-10
+16,5,41,24,57 American Ash Circle,2018-04-07
+17,11,80,29,379 Bobwhite Drive,2019-03-13
+18,6,77,18,91 Fordem Place,2019-09-06
+19,14,52,29,517 Oneill Alley,2018-11-12
+20,8,45,3,3225 Manley Road,2019-05-20
+21,20,13,73,8556 Arapahoe Trail,2019-02-08
+22,6,53,72,107 Crowley Center,2019-04-14
+23,12,60,27,8657 Coleman Alley,2021-01-29
+24,9,49,10,324 Grim Parkway,2021-02-28
+25,5,36,15,17178 Division Court,2018-11-19
+26,8,35,71,7553 Wayridge Lane,2018-09-28
+27,4,26,61,9 Acker Lane,2021-08-01
+28,4,36,14,7663 Harbort Road,2018-01-29
+29,10,16,72,6 Artisan Pass,2017-11-08
+30,16,65,80,00 David Lane,2018-04-24
+31,3,79,4,2 Judy Hill,2022-02-18
+32,6,29,78,883 Lillian Park,2021-03-31
+33,5,38,80,7006 Schmedeman Plaza,2020-08-25
+34,13,72,24,5 Loomis Plaza,2020-02-19
+35,6,92,2,13 Golden Leaf Plaza,2018-06-04
+36,18,81,40,6 Dennis Plaza,2019-01-18
+37,14,75,40,96950 Clyde Gallagher Street,2020-08-04
+38,2,54,25,0 Truax Terrace,2018-12-27
+39,7,65,65,056 Daystar Drive,2019-09-14
+40,12,27,55,6 Katie Crossing,2019-09-29
+41,11,34,30,5 Lien Avenue,2022-02-09
+42,3,67,34,1 Ruskin Center,2018-11-16
+43,3,52,21,3 Algoma Park,2017-11-30
+44,3,37,75,6 Golf Course Court,2018-04-07
+45,15,26,20,2 Parkside Alley,2021-05-04
+46,11,24,17,4 Main Crossing,2019-12-21
+47,7,21,66,9 Almo Avenue,2018-05-17
+48,10,53,46,3 2nd Circle,2020-05-15
+49,11,24,16,4524 Delladonna Lane,2021-07-22
+50,8,20,29,39 Lakewood Street,2022-02-06
+51,12,53,57,87418 Stang Street,2018-11-21
+52,15,32,80,29260 Northridge Lane,2020-07-07
+53,13,28,39,8 Redwing Pass,2021-09-06
+54,8,25,5,341 Buhler Point,2022-07-05
+55,13,87,47,74125 Shoshone Terrace,2021-01-09
+56,3,27,61,0661 Thierer Lane,2022-08-01
+57,5,61,9,81131 Elmside Parkway,2018-06-05
+58,15,73,59,61408 Hanson Crossing,2020-03-10
+59,19,95,9,315 Homewood Junction,2022-09-03
+60,5,23,8,013 Dennis Junction,2022-08-08
+61,6,72,67,1 Eagle Crest Road,2019-06-29
+62,10,81,43,42874 Texas Court,2021-12-12
+63,17,55,68,52 Schlimgen Street,2018-05-02
+64,8,37,71,3869 Morrow Place,2019-10-31
+65,15,60,27,62 Shoshone Park,2022-07-21
+66,13,55,32,48403 Schiller Court,2020-03-29
+67,18,15,69,50405 Clove Drive,2020-10-09
+68,19,57,73,2 Evergreen Terrace,2019-11-28
+69,1,52,3,8 Stuart Trail,2020-04-10
+70,16,91,50,943 Village Alley,2018-08-31
+71,2,13,1,811 Dunning Hill,2020-12-10
+72,16,2,71,14 Village Plaza,2018-08-24
+73,1,17,42,75527 Marcy Crossing,2019-01-16
+74,7,59,45,24188 Fulton Pass,2021-08-24
+75,5,63,9,928 Golf View Point,2019-05-23
+76,19,13,58,8932 Old Shore Lane,2022-01-30
+77,3,90,3,19 Forest Run Crossing,2022-03-17
+78,19,85,54,4285 Forest Dale Crossing,2021-12-28
+79,6,5,57,97 Goodland Circle,2019-01-15
+80,18,44,57,0 Duke Avenue,2020-09-06
+81,14,82,79,7 Lukken Pass,2019-12-29
+82,9,92,34,15 Oriole Pass,2020-11-28
+83,8,52,29,45155 1st Drive,2019-04-14
+84,9,2,66,2101 Hoard Hill,2020-10-03
+85,11,20,39,56 Eastwood Junction,2019-11-24
+86,6,17,39,22 Forest Run Crossing,2022-02-19
+87,9,55,15,92472 Paget Hill,2020-11-11
+88,7,77,14,8 Schlimgen Parkway,2020-02-23
+89,19,80,73,93346 Hoepker Terrace,2022-01-05
+90,17,90,30,91 Upham Lane,2019-03-04
+91,16,66,63,1 Helena Drive,2020-10-01
+92,1,14,79,207 Northland Point,2022-03-16
+93,8,1,50,84865 Elmside Terrace,2018-06-10
+94,20,20,29,573 Oxford Street,2020-02-26
+95,14,99,11,4 Derek Center,2020-12-02
+96,11,49,29,8792 Mcbride Road,2018-07-24
+97,2,84,28,6 Novick Hill,2021-07-24
+98,3,29,28,1675 Carpenter Place,2021-01-31
+99,3,72,56,54275 Cody Point,2020-07-19
+100,15,40,65,9285 Briar Crest Plaza,2021-07-05
+101,7,67,6,8670 Barby Park,2021-02-12
+102,13,35,72,4 Cardinal Pass,2018-03-21
+103,19,8,74,166 Moose Plaza,2020-06-30
+104,12,26,64,3176 Bellgrove Point,2020-09-01
+105,20,36,68,7816 Rockefeller Center,2018-01-13
+106,16,72,59,5 Elmside Park,2017-12-03
+107,2,98,48,66 Dahle Avenue,2017-11-07
+108,7,40,5,9 4th Lane,2019-08-25
+109,16,92,38,025 Mccormick Court,2021-02-12
+110,3,18,41,7 Pankratz Road,2020-01-28
+111,16,69,9,23766 Sachs Plaza,2020-06-23
+112,13,100,48,2 Forster Drive,2018-05-17
+113,11,54,5,9804 Crest Line Court,2018-11-04
+114,18,30,40,75 Independence Point,2021-10-24
+115,10,59,59,0 Bellgrove Hill,2021-12-17
+116,11,15,52,80606 Colorado Center,2020-01-19
+117,18,91,41,27530 New Castle Park,2018-06-19
+118,10,86,2,40 Eastlawn Parkway,2017-12-30
+119,1,52,36,6 Briar Crest Terrace,2019-07-26
+120,4,10,21,72720 Ramsey Crossing,2018-03-19
+121,3,94,66,4 Eagle Crest Lane,2021-02-12
+122,4,10,42,677 Holmberg Junction,2018-11-15
+123,12,92,7,1 Hazelcrest Plaza,2018-12-03
+124,13,40,49,54 Bluestem Way,2022-01-30
+125,10,87,43,8009 Scoville Court,2021-05-27
+126,11,78,33,1 Union Place,2019-09-03
+127,20,24,18,800 Quincy Place,2019-05-07
+128,9,86,54,966 Erie Crossing,2020-02-10
+129,12,57,64,367 Hollow Ridge Center,2017-10-28
+130,12,25,11,1100 Del Mar Court,2020-02-14
+131,7,55,35,5290 Sauthoff Alley,2021-07-06
+132,7,32,72,832 Jenna Plaza,2019-02-12
+133,5,29,30,0778 Amoth Terrace,2019-02-18
+134,14,54,9,19687 Mesta Hill,2020-12-01
+135,4,89,45,9356 Melody Center,2017-12-06
+136,16,52,5,9742 Elka Court,2019-10-20
+137,17,46,30,949 Sloan Terrace,2018-08-25
+138,18,14,48,24339 Canary Court,2020-06-05
+139,2,17,19,0273 Maple Wood Parkway,2020-03-14
+140,14,16,36,98554 Sunnyside Circle,2020-07-17
+141,11,16,6,1880 Bluejay Place,2019-02-13
+142,15,27,1,53 Mariners Cove Point,2018-03-13
+143,4,21,51,84262 Browning Road,2020-01-02
+144,11,5,43,1 Bluestem Plaza,2020-10-24
+145,16,11,8,38 Sachs Trail,2019-02-01
+146,18,81,10,6 Eastwood Park,2020-09-02
+147,2,3,27,5937 Oriole Alley,2021-02-12
+148,6,17,3,89157 Towne Crossing,2019-09-13
+149,1,5,65,828 Meadow Ridge Road,2020-12-06
+150,17,71,34,87653 Corben Park,2017-12-28
+151,9,75,1,1 Kennedy Drive,2019-01-26
+152,14,6,20,2 Grasskamp Road,2021-04-14
+153,13,12,10,2 Vahlen Center,2022-06-23
+154,20,59,28,78199 Duke Drive,2020-11-06
+155,9,8,27,42394 Buhler Road,2019-12-17
+156,9,76,2,72 Glendale Court,2018-12-27
+157,9,15,57,10 Burning Wood Hill,2022-04-12
+158,13,59,29,5664 Old Shore Plaza,2020-02-14
+159,13,95,70,4090 Northport Junction,2018-12-08
+160,6,57,55,8 Comanche Court,2018-02-03
+161,5,41,43,70321 Schiller Lane,2019-03-19
+162,16,13,19,4937 Farmco Plaza,2019-08-08
+163,12,59,77,211 North Court,2020-04-19
+164,7,85,77,1 Linden Street,2017-12-02
+165,2,4,64,52215 Fisk Parkway,2017-10-13
+166,12,56,50,474 Harbort Park,2021-11-17
+167,13,7,78,0 Grayhawk Hill,2019-05-23
+168,17,28,28,542 Fairview Alley,2018-10-05
+169,2,17,67,1998 5th Crossing,2021-07-08
+170,16,58,50,9 Forest Run Drive,2021-12-20
+171,14,81,53,57 Gerald Alley,2020-08-02
+172,18,93,71,06 Mendota Circle,2019-08-14
+173,8,46,18,284 School Parkway,2018-02-11
+174,12,96,34,703 Debra Avenue,2020-11-15
+175,8,98,51,793 Veith Terrace,2021-08-11
+176,10,69,59,55 Fulton Road,2021-02-16
+177,7,88,71,353 Sutherland Junction,2022-03-05
+178,20,39,59,0 Columbus Junction,2021-03-30
+179,13,62,61,896 Petterle Alley,2022-05-24
+180,14,15,13,8560 Thierer Road,2022-01-07
+181,5,56,69,6117 Atwood Junction,2021-12-31
+182,10,61,74,320 Hoepker Crossing,2017-10-20
+183,12,66,28,1471 Esker Way,2020-02-16
+184,13,10,30,23 Pepper Wood Parkway,2020-08-06
+185,16,67,71,57554 Jenna Avenue,2018-11-11
+186,13,69,24,9 Portage Terrace,2019-03-16
+187,16,48,32,13026 Little Fleur Lane,2020-05-10
+188,9,13,80,36 Northview Place,2022-05-27
+189,17,3,60,608 Calypso Trail,2018-05-19
+190,18,16,25,4 Myrtle Way,2022-06-02
+191,2,66,77,945 Namekagon Way,2019-09-01
+192,3,65,13,85 Buena Vista Avenue,2021-06-06
+193,9,40,28,76817 Russell Place,2021-02-07
+194,15,55,1,41779 Delaware Way,2018-01-18
+195,19,45,63,4545 Westridge Center,2022-02-19
+196,14,60,44,8730 Dexter Center,2018-03-18
+197,2,88,29,043 Hovde Place,2021-07-24
+198,4,54,53,19795 Elgar Park,2022-07-25
+199,3,17,29,29935 Anzinger Drive,2018-02-26
+200,10,42,43,99546 Mandrake Terrace,2022-08-22
+201,12,81,55,199 Manitowish Drive,2022-01-30
+202,7,24,50,82 New Castle Drive,2018-12-20
+203,18,90,12,2 Northwestern Pass,2020-09-13
+204,17,29,42,8 Marquette Place,2018-04-04
+205,20,56,49,66 Dapin Alley,2019-04-09
+206,3,95,77,4283 Warner Lane,2021-08-09
+207,6,6,16,689 Stephen Plaza,2018-09-09
+208,19,38,63,3289 Maple Wood Circle,2018-01-18
+209,1,58,59,4725 Karstens Road,2018-03-22
+210,5,51,33,65713 New Castle Lane,2022-01-19
+211,5,53,71,60541 Eagan Lane,2019-03-20
+212,1,51,69,118 Novick Center,2018-08-14
+213,9,52,77,97 Paget Alley,2020-10-11
+214,3,91,20,3 Anderson Way,2021-02-08
+215,16,33,66,1 Elmside Avenue,2021-10-21
+216,7,96,76,1 Michigan Alley,2021-05-15
+217,11,57,21,8 Jay Terrace,2020-12-06
+218,20,68,45,8682 Londonderry Plaza,2018-06-06
+219,11,32,74,423 Grasskamp Place,2022-06-12
+220,4,90,31,33 Claremont Lane,2021-12-13
+221,15,88,65,51 Shoshone Junction,2022-06-26
+222,13,65,57,02306 Memorial Place,2020-04-01
+223,20,15,10,8529 Havey Avenue,2020-05-07
+224,13,100,68,3979 Mayer Crossing,2021-05-25
+225,14,19,17,8638 Grasskamp Court,2022-08-05
+226,16,66,57,6873 Northland Court,2021-04-29
+227,14,85,66,4000 Jackson Circle,2017-12-13
+228,17,47,55,7594 Blackbird Point,2021-06-16
+229,19,77,76,78482 Forest Run Street,2020-06-03
+230,15,64,8,86684 Heffernan Junction,2021-04-08
+231,15,77,75,7344 Mayfield Pass,2022-05-26
+232,7,82,74,6225 Blackbird Terrace,2018-03-23
+233,1,65,1,61391 Monument Hill,2021-02-22
+234,8,55,34,3556 Center Crossing,2019-03-21
+235,7,26,51,095 Schlimgen Trail,2022-06-26
+236,13,24,74,9 Graedel Street,2018-12-14
+237,9,35,66,77 Melrose Pass,2019-07-21
+238,2,7,55,32 Graedel Street,2018-11-23
+239,8,24,73,195 Straubel Plaza,2018-07-24
+240,15,72,79,1 Crownhardt Avenue,2018-02-18
+241,12,54,25,1383 Bay Lane,2022-06-01
+242,15,18,60,90024 Corry Hill,2022-07-13
+243,1,8,78,2949 Stuart Road,2021-03-06
+244,19,36,17,64 Farwell Pass,2022-07-10
+245,1,60,56,6032 Swallow Court,2017-10-28
+246,9,92,4,9254 Victoria Alley,2018-01-04
+247,19,82,52,1 Grover Pass,2018-11-04
+248,13,11,51,54663 Dixon Terrace,2019-08-09
+249,12,59,6,0 Lillian Drive,2018-02-23
+250,4,66,77,7 Monument Place,2021-01-17
+251,12,76,21,6523 Bellgrove Lane,2020-11-07
+252,15,93,33,3387 Morning Circle,2019-06-07
+253,2,82,57,5205 Sycamore Way,2021-04-14
+254,14,74,31,93 Dapin Place,2022-06-06
+255,17,33,24,46 Grasskamp Junction,2018-04-06
+256,10,73,77,01737 Novick Center,2020-12-15
+257,1,22,32,3 Magdeline Hill,2022-05-03
+258,3,98,71,3 Helena Hill,2020-06-09
+259,9,56,6,5758 Hayes Parkway,2021-08-23
+260,4,90,55,56 Dakota Alley,2018-09-21
+261,16,62,41,7962 Moland Place,2022-05-30
+262,17,45,12,59178 Jana Pass,2018-09-09
+263,19,64,58,55 Mcguire Plaza,2020-04-17
+264,18,89,48,203 Claremont Junction,2021-11-11
+265,3,39,21,5 Jenifer Park,2018-05-16
+266,6,32,7,73 Karstens Place,2021-12-16
+267,2,20,4,7991 South Crossing,2019-06-27
+268,14,12,52,29633 Oxford Lane,2021-04-21
+269,12,71,33,9102 Armistice Road,2018-10-03
+270,2,24,20,58850 Forest Run Center,2021-08-24
+271,2,69,63,4968 Victoria Terrace,2018-08-10
+272,1,23,72,9 Bashford Street,2022-09-03
+273,2,36,76,616 Birchwood Center,2022-04-09
+274,8,39,26,74690 Vera Trail,2020-10-22
+275,3,78,47,970 Mayer Alley,2021-01-26
+276,14,94,79,5 Prairie Rose Lane,2021-03-19
+277,9,5,51,50492 Tony Trail,2018-03-12
+278,17,96,64,25878 Pearson Junction,2020-01-18
+279,5,36,40,39369 Corben Way,2020-01-29
+280,18,31,73,8 Meadow Ridge Drive,2020-11-03
+281,14,78,59,145 Eliot Road,2018-08-21
+282,3,53,36,680 Meadow Valley Place,2020-07-24
+283,14,30,74,3466 Oriole Avenue,2020-01-23
+284,4,25,9,1654 Mandrake Center,2022-05-08
+285,12,61,11,96 Dryden Way,2019-02-15
+286,16,32,33,5 Dayton Place,2021-09-18
+287,13,17,80,2 Heffernan Pass,2020-10-02
+288,14,2,56,9 Texas Place,2022-05-13
+289,19,21,51,15 Garrison Pass,2019-09-23
+290,12,84,37,922 Scott Drive,2020-11-20
+291,7,63,16,1224 7th Road,2021-04-14
+292,12,69,58,4461 New Castle Avenue,2018-12-08
+293,20,26,8,16106 Lindbergh Court,2020-08-26
+294,3,12,43,19 North Avenue,2022-03-09
+295,8,45,66,906 Fair Oaks Court,2017-10-24
+296,15,39,17,57 Little Fleur Point,2019-08-25
+297,16,21,59,25 Heath Point,2022-08-14
+298,3,11,76,6783 Oneill Court,2017-12-30
+299,6,66,16,71 Burrows Way,2022-04-24
+300,7,6,51,13 Springs Crossing,2020-03-15
